@@ -1,0 +1,2 @@
+TASK -01 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable,such as the distribution of ages or genders in a population
+This repository showcases visual stories built from a World Bank population dataset. Through engaging visualizations, it uncovers trends, patterns, and meaningful insights about global demographics and key factors shaping our world.
